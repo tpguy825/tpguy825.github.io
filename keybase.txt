@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tpguy825
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tpguy825.github.io
+  * I am tpguy825 (https://keybase.io/tpguy825) on keybase.
+  * I have a public key ASBiq6VVbO0JjhV5AR3gGWIw0-oI9K_BgmQkKGanAWhp7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012062aba5556ced098e1579011de0196230d3ea08f4afc18264242866a7016869ed0a",
+      "host": "keybase.io",
+      "kid": "012062aba5556ced098e1579011de0196230d3ea08f4afc18264242866a7016869ed0a",
+      "uid": "caca7bc8785efc931e794eaa8a51ce19",
+      "username": "tpguy825"
+    },
+    "merkle_root": {
+      "ctime": 1661331097,
+      "hash": "b9630689baccbaf369a64e4413efcb609c1218cbfb5078ce714920ef7e3cddb68da09e44b3e5f33591b3bed25cc53b3f8b04e827fbd0de17b53f19c386f0cd85",
+      "hash_meta": "c3fa94c6dd667de811ac0335b2652dc5ff1fc20cd6d40f74fd390df5512ed9b2",
+      "seqno": 23078531
+    },
+    "service": {
+      "entropy": "yE1BKGS1i6EkE6zDoAocvKz7",
+      "hostname": "tpguy825.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1661331123,
+  "expire_in": 504576000,
+  "prev": "01ac9c3dcb6af4e234bbf534e088d2ad00c4b65b4f64d90aeb47445c406250e1",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYqulVWztCY4VeQEd4BliMNPqCPSvwYJkJChmpwFoae0Kp3BheWxvYWTESpcCBsQgAaycPctq9OI0u/U04IjSrQDEtltPZNkK60dEXEBiUOHEILTOU14lKZ3MbE6tZEHqq5P5RhK6RfG7hLmCbxuAG39RAgHCo3NpZ8RAFjwWQMe8F9FfVR9yidzVVANzdPAI/y0bHcUjDwHkRb8+V/vCeG/cWrXvB4SBKqd9yp3D4qNWf+FAk+6ExlAgAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOix2iiKZSTL3cFnRvs1/Quv9L10CXtjwCZclfpQ0tSco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tpguy825
+
+==================================================================
